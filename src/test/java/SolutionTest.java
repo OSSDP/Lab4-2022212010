@@ -4,7 +4,7 @@
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-111111
+
 public class SolutionTest {
     @Test
     public void testLargestNumberWithPositiveNumbers() {
